@@ -1,0 +1,20 @@
+# Python artifacts
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Version control
+.git/
+.gitignore
+
+# Test / dev only files (not needed in image)
+test_results.json
+
+# Exclude raw & heavy source files — the pre-built graph/index are kept
+data/ccpa_statute.pdf
+data/ccpa_parsed_rag.json

@@ -1,0 +1,1027 @@
+{
+    "1798.100": {
+        "title": "General Duties of Businesses that Collect Personal Information",
+        "content": "A business that controls the collection of a consumer's personal information shall, at or before the point of collection, inform consumers of the categories of personal information to be collected and the purposes for which the categories of personal information are collected or used and whether that information is sold or shared [1]. A business' collection, use, retention, and sharing of a consumer's personal information shall be reasonably necessary and proportionate to achieve the purposes for which the personal information was collected or processed [2]. A business that collects a consumer's personal information shall implement reasonable security procedures and practices appropriate to the nature of the personal information [3].",
+        "type": "Duty",
+        "mentions": [
+            "1798.185",
+            "1798.81.5"
+        ],
+        "exemptions_in": [
+            "1798.140(v)",
+            "1798.146",
+            "1798.145(a)",
+            "1798.175",
+            "1798.140(d)",
+            "1798.100(f)",
+            "1798.180",
+            "1798.150(c)",
+            "1798.145(c)",
+            "1798.185(a)(14)",
+            "1798.145",
+            "1798.145(d)-(f)"
+        ],
+        "summary": "Outlines the general duties of businesses regarding notice at collection, data minimization, retention limitations, third-party contract requirements, and security procedures [1-4].",
+        "modifies": []
+    },
+    "1798.100(f)": {
+        "title": "Trade Secret Exemption",
+        "content": "Nothing in this section shall require a business to disclose trade secrets, as specified in regulations adopted pursuant to paragraph (3) of subdivision (a) of Section 1798.185 [5].",
+        "type": "Exemption",
+        "modifies": [
+            "1798.100"
+        ],
+        "summary": "Exempts businesses from the requirement to disclose trade secrets when fulfilling their general notice and data collection duties [5].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.105": {
+        "title": "Consumers' Right to Delete Personal Information",
+        "content": "A consumer shall have the right to request that a business delete any personal information about the consumer which the business has collected from the consumer [1]. A business that receives a verifiable consumer request shall delete the consumer's personal information from its records, notify any service providers or contractors to delete the information, and notify all third parties to whom the business has sold or shared the information to delete it, unless this proves impossible or involves disproportionate effort [2].",
+        "type": "Right",
+        "mentions": [
+            "1798.130"
+        ],
+        "exemptions_in": [
+            "1798.140(v)",
+            "1798.146",
+            "1798.145(a)",
+            "1798.105(d)",
+            "1798.145(j)-(l)",
+            "1798.145(o)",
+            "1798.105(c)",
+            "1798.140(d)",
+            "1798.145(q)",
+            "1798.175",
+            "1798.180",
+            "1798.150(c)",
+            "1798.145(c)",
+            "1798.145(p)",
+            "1798.145",
+            "1798.145(d)-(f)",
+            "1798.145(r)"
+        ],
+        "summary": "Grants the consumer the right to request deletion of their personal information and establishes the business's duty to comply and notify relevant third parties, service providers, and contractors [1, 2].",
+        "modifies": []
+    },
+    "1798.105(c)": {
+        "title": "Disproportionate Effort & Service Provider Exemptions",
+        "content": "Notification of deletion to third parties, service providers, or contractors is not required if it proves impossible or involves disproportionate effort [2, 3]. Furthermore, a service provider or contractor is not required to comply with a deletion request submitted directly by the consumer if they collected, used, processed, or retained the data solely in their role as a service provider or contractor to the business [3].",
+        "type": "Exemption",
+        "modifies": [
+            "1798.105"
+        ],
+        "summary": "Exempts businesses and service providers from passing down deletion requests if doing so requires disproportionate effort or is impossible, and shields service providers from direct consumer requests [2, 3].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.105(d)": {
+        "title": "General Deletion Exemptions",
+        "content": "A business or its service providers and contractors shall not be required to comply with a deletion request if maintaining the information is reasonably necessary to: (1) Complete a transaction, fulfill a warranty or product recall, or perform a contract [4]. (2) Ensure security and integrity [5]. (3) Debug and repair errors [5]. (4) Exercise free speech or other legal rights [5]. (5) Comply with the California Electronic Communications Privacy Act [5]. (6) Engage in peer-reviewed or public scientific, historical, or statistical research with informed consent [6]. (7) Enable solely internal uses aligned with consumer expectations [6]. (8) Comply with a legal obligation [7].",
+        "type": "Exemption",
+        "mentions": [
+            "Penal Code Section 1546"
+        ],
+        "modifies": [
+            "1798.105"
+        ],
+        "summary": "Lists eight specific cases where businesses, service providers, or contractors can legally refuse to delete a consumer's personal information [4-7].",
+        "exemptions_in": []
+    },
+    "1798.106": {
+        "title": "Consumers' Right to Correct Inaccurate Personal Information",
+        "content": "A consumer shall have the right to request a business that maintains inaccurate personal information about the consumer to correct that inaccurate personal information, taking into account the nature of the personal information and the purposes of the processing of the personal information. A business that receives a verifiable consumer request to correct inaccurate personal information shall use commercially reasonable efforts to correct the inaccurate personal information as directed by the consumer.",
+        "type": "Right",
+        "mentions": [
+            "1798.130",
+            "1798.185"
+        ],
+        "exemptions_in": [
+            "1798.146",
+            "1798.145(a)",
+            "1798.145(j)-(l)",
+            "1798.175",
+            "1798.180",
+            "1798.150(c)",
+            "1798.145(c)",
+            "1798.145(p)",
+            "1798.145",
+            "1798.145(d)-(f)"
+        ],
+        "summary": "Gives consumers the right to request correction of inaccurate personal information, requiring businesses to use commercially reasonable efforts to execute the correction.",
+        "modifies": []
+    },
+    "1798.110": {
+        "title": "Consumers' Right to Know What Personal Information is Being Collected. Right to Access Personal Information",
+        "content": "A consumer shall have the right to request that a business that collects personal information about the consumer disclose to the consumer the following: (1) The categories of personal information it has collected about that consumer. (2) The categories of sources from which the personal information is collected. (3) The business or commercial purpose for collecting, selling, or sharing personal information. (4) The categories of third parties to whom the business discloses personal information. (5) The specific pieces of personal information it has collected about that consumer.",
+        "type": "Right",
+        "mentions": [
+            "1798.130"
+        ],
+        "exemptions_in": [
+            "1798.145(q)(2)",
+            "1798.140(v)",
+            "1798.146",
+            "1798.145(a)",
+            "1798.145(j)-(l)",
+            "1798.145(q)",
+            "1798.175",
+            "1798.140(d)",
+            "1798.180",
+            "1798.150(c)",
+            "1798.145(c)",
+            "1798.145(b)",
+            "1798.145(p)",
+            "1798.130(b)",
+            "1798.145",
+            "1798.145(d)-(f)"
+        ],
+        "summary": "Grants consumers the right to access and know the specific pieces and categories of personal information a business has collected about them, including sources, purposes, and third-party disclosures.",
+        "modifies": []
+    },
+    "1798.115": {
+        "title": "Consumers' Right to Know What Personal Information is Sold or Shared and to Whom",
+        "content": "A consumer shall have the right to request that a business that sells or shares the consumer's personal information, or that discloses it for a business purpose, disclose to that consumer: (1) The categories of personal information collected. (2) The categories of personal information sold or shared and the categories of third parties to whom it was sold or shared. (3) The categories of personal information disclosed for a business purpose and the categories of persons to whom it was disclosed. A third party shall not sell or share personal information about a consumer that has been sold to, or shared with, the third party by a business unless the consumer has received explicit notice and is provided an opportunity to exercise the right to opt-out pursuant to Section 1798.120.",
+        "type": "Right",
+        "mentions": [
+            "1798.130",
+            "1798.120"
+        ],
+        "exemptions_in": [
+            "1798.140(v)",
+            "1798.146",
+            "1798.145(a)",
+            "1798.175",
+            "1798.140(d)",
+            "1798.180",
+            "1798.150(c)",
+            "1798.140(ad)(2)_and_(ah)(2)",
+            "1798.145(c)",
+            "1798.145(b)",
+            "1798.145(p)",
+            "1798.130(b)",
+            "1798.145",
+            "1798.145(d)-(f)"
+        ],
+        "summary": "Grants consumers the right to know specifically what personal information is being sold, shared, or disclosed for a business purpose, and to whom, while restricting third parties from reselling data without notice and an opportunity to opt out.",
+        "modifies": []
+    },
+    "1798.120": {
+        "title": "Consumers' Right to Opt Out of Sale or Sharing of Personal Information",
+        "content": "A consumer shall have the right, at any time, to direct a business that sells or shares personal information about the consumer to third parties not to sell or share the consumer's personal information [1]. A business shall not sell or share the personal information of consumers if the business has actual knowledge that the consumer is less than 16 years of age, unless the consumer or their parent/guardian has affirmatively authorized it [2].",
+        "type": "Right",
+        "mentions": [
+            "1798.135"
+        ],
+        "exemptions_in": [
+            "1798.146",
+            "1798.145(g)",
+            "1798.145(a)",
+            "1798.145(o)",
+            "1798.175",
+            "1798.140(d)",
+            "1798.180",
+            "1798.150(c)",
+            "1798.140(ad)(2)_and_(ah)(2)",
+            "1798.145(c)",
+            "1798.145(b)",
+            "1798.145(d)-(f)",
+            "1798.145",
+            "1798.145(r)"
+        ],
+        "summary": "Gives consumers the absolute right to opt out of the sale or sharing of their data, and requires explicit opt-in for minors under 16 [1, 2].",
+        "modifies": []
+    },
+    "1798.121": {
+        "title": "Consumers' Right to Limit Use and Disclosure of Sensitive Personal Information",
+        "content": "A consumer shall have the right, at any time, to direct a business that collects sensitive personal information about the consumer to limit its use of the consumer's sensitive personal information to that use which is necessary to perform the services or provide the goods reasonably expected by an average consumer who requests those goods or services, and to perform specific business purposes. A business that uses or discloses sensitive personal information for other purposes must provide notice and the right to limit.",
+        "type": "Right",
+        "mentions": [
+            "1798.185",
+            "1798.135",
+            "1798.140"
+        ],
+        "exemptions_in": [
+            "1798.146",
+            "1798.145(a)",
+            "1798.121(d)",
+            "1798.175",
+            "1798.140(d)",
+            "1798.180",
+            "1798.150(c)",
+            "1798.145(c)",
+            "1798.145(b)",
+            "1798.145",
+            "1798.145(d)-(f)"
+        ],
+        "summary": "Grants consumers the right to restrict a business's use and disclosure of their sensitive personal information to only what is strictly necessary to provide the requested goods or services.",
+        "modifies": []
+    },
+    "1798.121(d)": {
+        "title": "Non-Inferential Purpose Exemption",
+        "content": "Sensitive personal information that is collected or processed without the purpose of inferring characteristics about a consumer is not subject to this section, and shall be treated as personal information for purposes of all other sections of this act, including Section 1798.100.",
+        "type": "Exemption",
+        "modifies": [
+            "1798.121"
+        ],
+        "summary": "Exempts sensitive data from the use-limitation right if the business collected or processed the data without the intention of inferring characteristics about the consumer.",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.125": {
+        "title": "Consumers' Right of No Retaliation Following Opt Out or Exercise of Other Rights",
+        "content": "A business shall not discriminate against a consumer because the consumer exercised any of the consumer's rights under this title, including by denying goods or services, charging different prices or rates, providing a different level or quality of goods or services, or retaliating against an employee, applicant for employment, or independent contractor for exercising their rights [1], [2].",
+        "type": "Right",
+        "mentions": [
+            "1798.145(m)"
+        ],
+        "exemptions_in": [
+            "1798.146",
+            "1798.145(a)",
+            "1798.175",
+            "1798.140(d)",
+            "1798.180",
+            "1798.150(c)",
+            "1798.145(c)",
+            "1798.125(b)",
+            "1798.145(d)-(f)"
+        ],
+        "summary": "Protects consumers, employees, and contractors from retaliation or discrimination for exercising their privacy rights, prohibiting businesses from altering prices, denying services, or degrading quality [1], [2].",
+        "modifies": []
+    },
+    "1798.125(b)": {
+        "title": "Financial Incentives and Loyalty Programs Exemption",
+        "content": "A business is not prohibited from offering loyalty, rewards, premium features, discounts, or club card programs [3]. A business may offer financial incentives for the collection, sale, sharing, or retention of personal information, and may charge a different price, rate, level, or quality of goods or services if that difference is reasonably related to the value provided to the business by the consumer's data [2], [3]. The business must notify the consumer and obtain prior opt-in consent, which can be revoked at any time [4]. Financial incentive practices cannot be unjust, unreasonable, coercive, or usurious [5].",
+        "type": "Exemption",
+        "mentions": [
+            "1798.130",
+            "1798.185"
+        ],
+        "modifies": [
+            "1798.125"
+        ],
+        "summary": "Permits businesses to offer loyalty programs, financial incentives, and data-valued price differences, provided they obtain explicit prior opt-in consent from the consumer and the practices are not coercive [3], [4], [5].",
+        "exemptions_in": []
+    },
+    "1798.130": {
+        "title": "Notice, Disclosure, Correction, and Deletion Requirements",
+        "content": "In order to comply with consumer rights, a business shall make available two or more designated methods for submitting requests, including at a minimum a toll-free telephone number, unless the business operates exclusively online, in which case it only needs to provide an email address. The business must disclose and deliver the required information, correct, or delete information free of charge within 45 days of receiving a verifiable consumer request. This period may be extended once by an additional 45 days if notice is provided. The disclosure must cover the 12-month period preceding the request, or beyond if requested. Businesses must also update their online privacy policies at least once every 12 months to include descriptions of these rights and lists of categories of data collected, sold, or disclosed.",
+        "type": "Procedure",
+        "mentions": [
+            "1798.110",
+            "1798.185",
+            "1798.140",
+            "1798.125",
+            "1798.106",
+            "1798.100",
+            "1798.115",
+            "1798.105"
+        ],
+        "exemptions_in": [
+            "1798.140(d)",
+            "1798.145(b)",
+            "1798.145(h)",
+            "1798.130(b)"
+        ],
+        "summary": "Establishes the operational rules for how businesses must receive, verify, and respond to consumer rights requests, including the 45-day timeline, acceptable submission methods, and annual privacy policy updates.",
+        "modifies": []
+    },
+    "1798.130(b)": {
+        "title": "Frequency Limitation Exemption",
+        "content": "A business is not obligated to provide the information required by Sections 1798.110 and 1798.115 to the same consumer more than twice in a 12-month period.",
+        "type": "Exemption",
+        "modifies": [
+            "1798.110",
+            "1798.130",
+            "1798.115"
+        ],
+        "summary": "Protects businesses from having to fulfill Right to Know or Access requests more than twice a year for a single consumer.",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.135": {
+        "title": "Methods of Limiting Sale, Sharing, and Use of Personal Information and Use of Sensitive Personal Information",
+        "content": "A business must provide clear and conspicuous links titled 'Do Not Sell or Share My Personal Information' and 'Limit the Use of My Sensitive Personal Information' on its homepage, or a single combined link. It must not require an account to opt out, must honor authorized agent requests, and must wait 12 months before requesting re-consent from an opted-out consumer. If communicating the opt-out downstream, the receiving person is strictly prohibited from retaining, using, or disclosing the data outside the direct business relationship.",
+        "type": "Procedure",
+        "mentions": [
+            "1798.125",
+            "1798.185",
+            "1798.120",
+            "1798.121"
+        ],
+        "exemptions_in": [
+            "1798.135(g)",
+            "1798.135(b)",
+            "1798.140(d)",
+            "1798.140(ad)(2)_and_(ah)(2)",
+            "1798.145(b)",
+            "1798.135(d)"
+        ],
+        "summary": "Dictates the operational requirements for how a business must intake and process consumer requests to opt out of data sales/sharing or limit the use of sensitive information.",
+        "modifies": []
+    },
+    "1798.135(b)": {
+        "title": "Opt-Out Preference Signal Exemption (Alternative Compliance)",
+        "content": "A business shall not be required to comply with providing manual opt-out links on its homepage if it allows consumers to opt out of the sale/sharing and limit sensitive data use through a recognized opt-out preference signal sent with the consumer's consent.",
+        "type": "Exemption",
+        "modifies": [
+            "1798.135"
+        ],
+        "summary": "Exempts businesses from placing explicit opt-out links on their homepage if they properly implement and honor automated opt-out preference signals.",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.135(d)": {
+        "title": "California-Specific Homepage Exemption",
+        "content": "A business is not required to include the required opt-out links on its general public homepage if it maintains a separate, dedicated homepage for California consumers that includes the links, and takes reasonable steps to direct California consumers to it.",
+        "type": "Exemption",
+        "modifies": [
+            "1798.135"
+        ],
+        "summary": "Exempts businesses from altering their main global homepage if they maintain and properly route users to a dedicated California privacy homepage.",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.135(g)": {
+        "title": "Downstream Liability Safe Harbor",
+        "content": "A business that communicates a consumer's opt-out request to an authorized person shall not be liable if that person violates the restrictions, provided the business did not have actual knowledge or reason to believe the person intended to commit a violation at the time of communication.",
+        "type": "Exemption",
+        "modifies": [
+            "1798.135"
+        ],
+        "summary": "Shields businesses from liability if a downstream entity goes rogue and ignores an opt-out request passed on by the business.",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.140(d)": {
+        "title": "Definition of a Business (Applicability Thresholds)",
+        "content": "Defines 'business' as a for-profit entity doing business in California that collects consumers' personal information and determines the purposes and means of processing, and that satisfies one of three thresholds: (A) Annual gross revenues in excess of $25,000,000 [1, 2]. (B) Alone or in combination, annually buys, sells, or shares the personal information of 100,000 or more consumers or households [2]. (C) Derives 50 percent or more of its annual revenues from selling or sharing consumers' personal information [2].",
+        "type": "Definition",
+        "modifies": [
+            "1798.110",
+            "1798.121",
+            "1798.125",
+            "1798.130",
+            "1798.120",
+            "1798.135",
+            "1798.100",
+            "1798.115",
+            "1798.105"
+        ],
+        "summary": "The ultimate 'Does CCPA apply?' filter. If an entity does not meet these specific financial or data-volume thresholds, they are effectively exempt from all CCPA obligations.",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.140(v)": {
+        "title": "Definition of Personal Information & Publicly Available Exemption",
+        "content": "Personal information identifies, relates to, describes, or could reasonably be linked with a particular consumer or household [3]. It explicitly does NOT include publicly available information (information lawfully made available from government records, or information a business reasonably believes is lawfully made available to the general public) [4, 5]. It also does not include consumer information that is deidentified or aggregate consumer information [6].",
+        "type": "Definition",
+        "modifies": [
+            "1798.110",
+            "1798.105",
+            "1798.100",
+            "1798.115"
+        ],
+        "summary": "Defines what data is protected, and serves as an absolute exemption by expressly carving out publicly available, deidentified, or aggregated data from CCPA requests.",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.140(ad)(2)_and_(ah)(2)": {
+        "title": "Exceptions to 'Sale' and 'Sharing' of Personal Information",
+        "content": "A business does not 'sell' or 'share' personal information when: (A) A consumer uses or directs the business to intentionally disclose personal information or interact with one or more third parties [7, 8]. (B) The business uses or shares an identifier to alert persons that a consumer has opted out [7, 8]. (C) The data is transferred to a third party as an asset that is part of a merger, acquisition, bankruptcy, or other transaction where the third party assumes control of the business [9, 10].",
+        "type": "Exemption",
+        "modifies": [
+            "1798.120",
+            "1798.115",
+            "1798.135"
+        ],
+        "summary": "Crucial exemptions to 'selling' and 'sharing' data. If a user intentionally directs the sharing, or it is part of a corporate merger, the transaction is legally exempt from being classified as a sale or share.",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.140(ae)": {
+        "title": "Definition of Sensitive Personal Information",
+        "content": "Sensitive personal information includes: SSN, driver's license, passport; financial account combined with security/access codes; precise geolocation; racial or ethnic origin, religious beliefs, union membership; contents of mail, email, and texts (unless the business is the intended recipient); genetic data; and neural data [11, 12]. It also includes the processing of biometric information to uniquely identify a consumer, and personal information collected and analyzed concerning a consumer's health, sex life, or sexual orientation [12, 13].",
+        "type": "Definition",
+        "mentions": [
+            "1798.121"
+        ],
+        "summary": "The master list of 'Sensitive' data triggers. System maps specific data types (like biometrics or precise geolocation) directly to the Right to Limit Use.",
+        "exemptions_in": [],
+        "modifies": []
+    },
+    "1798.145(a)": {
+        "title": "Universal Legal, Law Enforcement, and Out-of-State Exemptions",
+        "content": "The CCPA shall not restrict a business's ability to: comply with federal, state, or local laws; comply with a court order, subpoena, or regulatory inquiry; cooperate with law enforcement (including holding data for 90 days upon request); cooperate with emergency access requests if a person is in danger of death/injury (excluding abortion services); exercise or defend legal claims; or collect/sell/share data if every aspect of that commercial conduct takes place wholly outside of California [1-5].",
+        "type": "Exemption",
+        "modifies": [
+            "ALL_RIGHTS"
+        ],
+        "summary": "The master 'Legal Compliance' shield. Completely exempts businesses from consumer requests if compliance violates other laws, impedes active investigations, or involves out-of-state conduct [1, 4].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.145(b)": {
+        "title": "Evidentiary Privilege Exemption",
+        "content": "The obligations imposed on businesses by Sections 1798.110, 1798.115, 1798.120, 1798.121, 1798.130, and 1798.135 shall not apply where compliance would violate an evidentiary privilege under California law [6].",
+        "type": "Exemption",
+        "modifies": [
+            "1798.110",
+            "1798.121",
+            "1798.130",
+            "1798.120",
+            "1798.135",
+            "1798.115"
+        ],
+        "summary": "Protects attorney-client and other legal privileges from CCPA disclosure or opt-out requirements [6].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.145(c)": {
+        "title": "Health & Medical Data Exemption (HIPAA/CMIA)",
+        "content": "The CCPA does not apply to medical information governed by the Confidentiality of Medical Information Act (CMIA), protected health information collected by a covered entity/business associate governed by HIPAA, or personal information collected as part of a clinical trial or biomedical research study [7-9].",
+        "type": "Exemption",
+        "modifies": [
+            "ALL_RIGHTS"
+        ],
+        "summary": "Sector-specific gatekeeper that entirely removes HIPAA-regulated and CMIA-regulated health data from CCPA consumer rights [7].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.145(d)-(f)": {
+        "title": "Federal Financial and Driver Sector Exemptions (FCRA, GLBA, DPPA)",
+        "content": "The CCPA does not apply to data bearing on creditworthiness regulated by the Fair Credit Reporting Act (FCRA) [10, 11]. It does not apply to financial information collected/processed subject to the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act [12]. It does not apply to data processed pursuant to the Driver's Privacy Protection Act of 1994 (DPPA) [13]. Note: These exemptions do not apply to the private right of action for data breaches (Section 1798.150) [11-13].",
+        "type": "Exemption",
+        "modifies": [
+            "ALL_RIGHTS_EXCEPT_1798.150"
+        ],
+        "summary": "Exempts credit bureaus, banks, and DMVs from CCPA rights (like deletion/opt-out) for data already regulated by FCRA, GLBA, or DPPA, but leaves them liable for security breaches [10, 12, 13].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.145(g)": {
+        "title": "Vehicle and Vessel Warranty/Recall Exemption",
+        "content": "Section 1798.120 (Opt-out) shall not apply to vehicle or vessel ownership information retained or shared between a dealer and the manufacturer, if shared for the purpose of effectuating a repair covered by a warranty or a recall [13, 14].",
+        "type": "Exemption",
+        "modifies": [
+            "1798.120"
+        ],
+        "summary": "Exempts the sharing of ownership data between dealers and manufacturers for warranty repairs or recalls from the right to opt out [13, 14].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.145(h)": {
+        "title": "Procedural Extensions & Excessive Requests Exemption",
+        "content": "A business may extend the response time for a verifiable consumer request by up to 90 days due to complexity/volume [15, 16]. If requests from a consumer are manifestly unfounded or excessive (especially repetitive), a business may charge a reasonable administrative fee or refuse to act on the request [17].",
+        "type": "Exemption",
+        "modifies": [
+            "1798.130"
+        ],
+        "summary": "Allows businesses to legally delay responses for complex requests, or outright refuse/charge fees for abusive, repetitive consumer spam [16, 17].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.145(i)": {
+        "title": "Downstream Liability Safe Harbor",
+        "content": "A business that discloses personal information to a service provider, contractor, or third party under a compliant contract is not liable if that receiving party uses the data in violation of the CCPA, provided the business did not have actual knowledge or reason to believe the receiving party intended to commit a violation [18, 19].",
+        "type": "Exemption",
+        "modifies": [
+            "LIABILITY"
+        ],
+        "summary": "Shields compliant businesses from liability if their third-party vendors go rogue and violate the CCPA [18].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.145(j)-(l)": {
+        "title": "Technical Limits, Rights of Others, and First Amendment",
+        "content": "Businesses are not required to reidentify data or maintain data in identifiable form just to respond to requests [20]. Fulfilling consumer rights (like deletion or access) shall not adversely affect the rights and freedoms of other natural persons [21]. The CCPA does not apply to noncommercial activities of news media/journalism protected by the California Constitution [22].",
+        "type": "Exemption",
+        "modifies": [
+            "1798.110",
+            "1798.105",
+            "1798.106"
+        ],
+        "summary": "Exempts businesses from reidentifying data, protects the privacy of third parties in joint-data scenarios, and exempts journalistic activities [20-22].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.145(m)_and_(n)": {
+        "title": "Employment and B2B Exemptions (INOPERATIVE)",
+        "content": "Historically exempted personal information of job applicants, employees, owners, directors, officers, and independent contractors, as well as B2B transactional data. However, the statute explicitly states these subdivisions became inoperative on January 1, 2023 [22-24].",
+        "type": "Exemption_Expired",
+        "modifies": [
+            "NONE"
+        ],
+        "summary": "WARNING: These exemptions for employee and B2B data expired on Jan 1, 2023. Employees and B2B contacts now have full CCPA rights [23, 24].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.145(o)": {
+        "title": "Business Controller Information Exemption",
+        "content": "Sections 1798.105 (Deletion) and 1798.120 (Opt-Out) do not apply to a commercial credit reporting agency's collection or sale of business controller information used solely to identify the relationship of a consumer to a business they own or manage [24, 25].",
+        "type": "Exemption",
+        "modifies": [
+            "1798.105",
+            "1798.120"
+        ],
+        "summary": "Exempts commercial credit agencies from deletion/opt-out requests regarding the professional contact info of business owners and managers [24].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.145(p)": {
+        "title": "Household Data Exemption",
+        "content": "The obligations imposed on businesses regarding deletion, correction, and access (Sections 1798.105, 1798.106, 1798.110, 1798.115) shall not apply to household data [26].",
+        "type": "Exemption",
+        "modifies": [
+            "1798.110",
+            "1798.105",
+            "1798.115",
+            "1798.106"
+        ],
+        "summary": "Removes 'household' level data from core consumer rights requests [26].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.145(q)": {
+        "title": "Educational Assessment & Grades Exemption",
+        "content": "A business is not required to delete a student's grades, educational scores, or test results held on behalf of a local educational agency [26]. Furthermore, a business does not have to disclose specific responses to an educational standardized assessment if access would jeopardize the validity and reliability of the test [27].",
+        "type": "Exemption",
+        "modifies": [
+            "1798.110",
+            "1798.105"
+        ],
+        "summary": "Protects student grades from deletion requests and protects the integrity of standardized tests (like the SAT/ACT) from access requests [26, 27].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.145(q)(2)": {
+        "title": "Educational Assessment Exemption",
+        "content": "This title does not require, in response to a request pursuant to Section 1798.110, that a business disclose an educational standardized assessment or educational assessment or a consumer's specific responses to the educational standardized assessment or educational assessment if consumer access, possession, or control would jeopardize the validity and reliability of that educational standardized assessment or educational assessment.",
+        "type": "Exemption",
+        "modifies": [
+            "1798.110"
+        ],
+        "summary": "Protects the validity of standardized tests by exempting businesses from disclosing assessment responses under the Right to Know.",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.145(r)": {
+        "title": "Physical Item / Yearbook Exemption",
+        "content": "Deletion and Opt-Out rights do not apply to a business's use of personal information to produce a physical item (e.g., a school yearbook with a photo) if the consumer consented, the business incurred significant expense in reliance on that consent, and compliance would not be commercially reasonable [28, 29].",
+        "type": "Exemption",
+        "modifies": [
+            "1798.105",
+            "1798.120"
+        ],
+        "summary": "Exempts data already committed to physical production (like printed yearbooks) from deletion/opt-out if recalling the print run is commercially unreasonable [28, 29].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.146": {
+        "title": "Expanded Health, Medical, and Clinical Trial Exemptions",
+        "content": "This title shall not apply to medical information governed by the Confidentiality of Medical Information Act (CMIA) or protected health information collected by a HIPAA covered entity or business associate [1]. It also exempts health care providers and business associates to the extent they maintain patient information in the same manner as medical or protected health information [2, 3]. Furthermore, it exempts information deidentified in accordance with HIPAA rules that is derived from patient information, and information collected, used, or disclosed in research/clinical trials in accordance with the Common Rule, FDA guidelines, or international clinical practice guidelines [4, 5]. If deidentified data is subsequently reidentified, it loses this exemption [5].",
+        "type": "Exemption",
+        "mentions": [
+            "1798.148"
+        ],
+        "modifies": [
+            "ALL_RIGHTS"
+        ],
+        "summary": "Acts as an expanded, sector-specific gatekeeper that entirely exempts HIPAA-regulated covered entities, business associates, clinical trial research, and HIPAA-deidentified patient data from CCPA obligations [1, 3, 4].",
+        "exemptions_in": []
+    },
+    "1798.148": {
+        "title": "Prohibition on Reidentifying Deidentified Health Information",
+        "content": "A business or person shall not reidentify, or attempt to reidentify, deidentified patient information that was exempted under Section 1798.146. Any contract for the sale or license of this deidentified information must explicitly state that it includes deidentified patient data, that reidentification is strictly prohibited, and that purchasers cannot further disclose the data without binding the next party to the same strict restrictions. If information is reidentified, it immediately loses its exemption and becomes fully subject to the CCPA, HIPAA, and the Confidentiality of Medical Information Act.",
+        "type": "Restriction",
+        "mentions": [
+            "1798.146(a)(4)"
+        ],
+        "exemptions_in": [
+            "1798.148(a)"
+        ],
+        "summary": "Strictly prohibits businesses from attempting to reidentify deidentified health data, sets mandatory contract clauses for licensing this data, and instantly voids the CCPA health exemption if data is reidentified.",
+        "modifies": []
+    },
+    "1798.148(a)": {
+        "title": "Permitted Reidentification Exemptions",
+        "content": "A business may only attempt to reidentify previously deidentified patient information for one of five specific purposes: (1) Treatment, payment, or health care operations by a covered entity/business associate. (2) Public health activities. (3) Authorized research. (4) Pursuant to a specific contract designed to test, analyze, or validate the deidentification techniques (which requires the return or destruction of the data afterward). (5) If otherwise required by law.",
+        "type": "Exemption",
+        "modifies": [
+            "1798.148"
+        ],
+        "summary": "The five highly restricted legal exceptions where an entity is allowed to reverse deidentification techniques on health data.",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.150(a)": {
+        "title": "Conditions and Damages for Private Right of Action (Security Breaches)",
+        "content": "Any consumer whose nonencrypted and nonredacted personal information (as defined in Section 1798.81.5), or whose email address in combination with a password or security question and answer, is subject to unauthorized access, exfiltration, theft, or disclosure due to a business's violation of the duty to implement reasonable security procedures may institute a civil action. Consumers can recover statutory damages between $100 and $750 per consumer per incident, or actual damages, whichever is greater, as well as injunctive or declaratory relief. When assessing statutory damages, courts consider the nature, seriousness, persistence, and willfulness of the misconduct, as well as the defendant's assets.",
+        "type": "Enforcement_Trigger",
+        "mentions": [
+            "1798.199.95(d)",
+            "1798.81.5"
+        ],
+        "exemptions_in": [
+            "1798.150(c)",
+            "1798.185(d)",
+            "1798.150(b)"
+        ],
+        "summary": "Grants consumers a private right of action to sue for statutory or actual damages if specific types of sensitive data are breached due to a business's failure to maintain reasonable security.",
+        "modifies": []
+    },
+    "1798.150(b)": {
+        "title": "30-Day Notice and Cure Period Exemption",
+        "content": "Prior to initiating an action for statutory damages, a consumer must provide the business 30 days' written notice identifying the violations. If the business actually cures the noticed violation within 30 days and provides an express written statement that no further violations shall occur, no action for statutory damages may be initiated. However, the implementation and maintenance of reasonable security procedures following a breach does not constitute a cure with respect to that breach. No notice is required before suing for actual pecuniary damages. If a business breaches the express written statement, the consumer can sue for the breach of that statement and postdating violations.",
+        "type": "Exemption",
+        "modifies": [
+            "1798.150(a)"
+        ],
+        "summary": "Provides a procedural shield that prevents lawsuits for statutory damages if a business can successfully cure the violation within 30 days, while explicitly stating that post-breach security updates do not count as a cure.",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.150(c)": {
+        "title": "Strict Limitation on Private Right of Action",
+        "content": "The cause of action established by this section shall apply only to security breach violations as defined in subdivision (a) and shall not be based on violations of any other section of this title. Nothing in this title shall be interpreted to serve as the basis for a private right of action under any other law.",
+        "type": "Restriction",
+        "modifies": [
+            "ALL_OTHER_RIGHTS",
+            "1798.150(a)"
+        ],
+        "summary": "Strictly prohibits consumers from using the CCPA to sue businesses for general privacy violations; lawsuits are exclusively limited to data breaches.",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.155(a)": {
+        "title": "Administrative Enforcement and Fines",
+        "content": "Any business, service provider, contractor, or other person that violates this title shall be liable for an administrative fine of not more than two thousand five hundred dollars ($2,500) for each violation or seven thousand five hundred dollars ($7,500) for each intentional violation or violations involving the personal information of consumers whom the business, service provider, contractor, or other person has actual knowledge are under 16 years of age, as adjusted pursuant to subdivision (d) of Section 1798.199.95, in an administrative enforcement action brought by the California Privacy Protection Agency [1, 2].",
+        "type": "Enforcement",
+        "mentions": [
+            "1798.199.95(d)"
+        ],
+        "summary": "Establishes the administrative fines levied by the California Privacy Protection Agency, setting standard violations at up to $2,500 and intentional/minor violations at up to $7,500 [1].",
+        "exemptions_in": [
+            "1798.185(d)"
+        ],
+        "modifies": []
+    },
+    "1798.155(b)": {
+        "title": "Consumer Privacy Fund Deposits",
+        "content": "Any administrative fine assessed for a violation of this title, and the proceeds of any settlement of an action brought pursuant to subdivision (a), shall be deposited in the Consumer Privacy Fund, created within the General Fund pursuant to subdivision (a) of Section 1798.160 with the intent to fully offset any costs incurred by the state courts, the Attorney General, and the California Privacy Protection Agency in connection with this title [2].",
+        "type": "Administrative_Procedure",
+        "mentions": [
+            "1798.160(a)"
+        ],
+        "summary": "Directs that all administrative fines and settlement proceeds be deposited into the Consumer Privacy Fund to offset enforcement costs [2].",
+        "exemptions_in": [],
+        "modifies": []
+    },
+    "1798.175": {
+        "title": "Conflicting Provisions",
+        "content": "This title is intended to further the constitutional right of privacy and to supplement existing laws relating to consumers' personal information, including, but not limited to, Chapter 22 (commencing with Section 22575) of Division 8 of the Business and Professions Code and Title 1.81 (commencing with Section 1798.80). The provisions of this title are not limited to information collected electronically or over the Internet, but apply to the collection and sale of all personal information collected by a business from consumers. Wherever possible, law relating to consumers' personal information should be construed to harmonize with the provisions of this title, but in the event of a conflict between other laws and the provisions of this title, the provisions of the law that afford the greatest protection for the right of privacy for consumers shall control.",
+        "type": "Conflict_Resolution",
+        "modifies": [
+            "ALL_RIGHTS"
+        ],
+        "summary": "Establishes that the CCPA applies to both electronic and offline data collection, supplements existing laws, and strictly mandates that if two laws conflict, the one offering the greatest privacy protection to the consumer must prevail.",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.180": {
+        "title": "Preemption",
+        "content": "This title is a matter of statewide concern and supersedes and preempts all rules, regulations, codes, ordinances, and other laws adopted by a city, county, city and county, municipality, or local agency regarding the collection and sale of consumers' personal information by a business [1].",
+        "type": "Jurisdiction",
+        "modifies": [
+            "ALL_RIGHTS"
+        ],
+        "summary": "Establishes that the CCPA is the supreme privacy law in California at the state level, completely preempting any local city, county, or municipality from passing and enforcing their own competing data privacy ordinances [1].",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.185": {
+        "title": "Rulemaking Authority and Mandates",
+        "content": "Grants authority to adopt regulations to further the purposes of the CCPA. This includes updating definitions for personal information, sensitive personal information, deidentified data, and precise geolocation. It establishes the rules for how businesses must verify consumer requests, correct data, and handle opt-out preferences without creating undue burden or engaging in deceptive practices.",
+        "type": "Administrative_Authority",
+        "mentions": [
+            "1798.130",
+            "1798.120",
+            "1798.140",
+            "1798.121"
+        ],
+        "summary": "The master rulemaking section that directs the Attorney General and the California Privacy Protection Agency to create the specific, operational regulations that businesses must follow to comply with the CCPA.",
+        "exemptions_in": [],
+        "modifies": []
+    },
+    "1798.185(a)(14)": {
+        "title": "Cybersecurity Audits and Risk Assessments",
+        "content": "Requires businesses whose processing of consumers' personal information presents significant risk to consumers' privacy or security to perform an annual, independent cybersecurity audit. Furthermore, these businesses must regularly submit a risk assessment to the CPPA weighing the benefits of their processing against the potential risks to consumer rights, with the goal of restricting or prohibiting processing if the risks outweigh the benefits.",
+        "type": "Compliance_Obligation",
+        "modifies": [
+            "BUSINESS_DUTIES"
+        ],
+        "summary": "A massive compliance trigger mandating annual cybersecurity audits and regular risk assessments for businesses engaged in high-risk data processing.",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.185(a)(15)": {
+        "title": "Automated Decisionmaking Technology (AI & Profiling)",
+        "content": "Mandates regulations governing access and opt-out rights with respect to a business's use of automated decisionmaking technology, including profiling. Businesses must respond to access requests by providing meaningful information about the logic involved in those decisionmaking processes and a description of the likely outcome of the process with respect to the consumer.",
+        "type": "Right_Expansion",
+        "mentions": [
+            "1798.140(z)"
+        ],
+        "summary": "Establishes specific consumer rights to opt out of and demand transparency regarding AI, automated decisionmaking, and algorithmic profiling.",
+        "exemptions_in": [],
+        "modifies": []
+    },
+    "1798.185(a)(18)_and_(19)": {
+        "title": "Opt-Out Preference Signals (Global Privacy Control)",
+        "content": "Requires regulations defining the technical specifications for an opt-out preference signal sent by a platform, technology, or mechanism (like a browser). The signal must clearly represent a consumer's intent to opt out of the sale/sharing of data or limit the use of sensitive data. Businesses are strictly prohibited from degrading the consumer's experience, charging fees, or utilizing dark patterns or coercive pop-ups in response to the signal.",
+        "type": "Technical_Standard",
+        "mentions": [
+            "1798.135(b)"
+        ],
+        "summary": "Dictates exactly how businesses must honor automated browser signals (like Global Privacy Control) without punishing or coercing the consumer.",
+        "exemptions_in": [],
+        "modifies": []
+    },
+    "1798.185(d)": {
+        "title": "Agency Transition and Enforcement Timeline",
+        "content": "Transfers the authority to adopt regulations from the Attorney General to the California Privacy Protection Agency (CPPA). It states that civil and administrative enforcement of the provisions added or amended by the CPRA (the 2020 ballot initiative) shall not commence until July 1, 2023, and shall only apply to violations occurring on or after that date.",
+        "type": "Jurisdiction_Timeline",
+        "modifies": [
+            "ENFORCEMENT"
+        ],
+        "summary": "Sets the jurisdictional handover to the CPPA and establishes the critical July 1, 2023 enforcement start date for new CPRA rules.",
+        "exemptions_in": [],
+        "mentions": []
+    },
+    "1798.199.100": {
+        "title": "Good Faith Cooperation and Penalty Limitations",
+        "content": "The agency and any court, as applicable, shall consider the good faith cooperation of the business, service provider, contractor, or other person in determining the amount of any administrative fine or civil penalty for a violation of this title. A business shall not be required by the agency, a court, or otherwise to pay both an administrative fine and a civil penalty for the same violation.",
+        "type": "Enforcement/Penalty",
+        "mentions": [],
+        "exemptions_in": [
+            "1798.185(d)"
+        ],
+        "summary": "Mandates that courts and the privacy agency consider a business's good faith cooperation when assessing fines, and prohibits double-charging a business with both an administrative fine and a civil penalty for the exact same violation.",
+        "modifies": []
+    },
+    "1798.199.95": {
+        "title": "Agency Funding and Monetary Threshold Adjustments",
+        "content": "There is hereby appropriated from the General Fund of the state to the agency the sum of five million dollars ($5,000,000) during the fiscal year 2020\u201321, and the sum of ten million dollars ($10,000,000) adjusted for cost-of-living changes, during each fiscal year thereafter, for expenditure to support the operations of the agency [1]. On January 1, 2025, and on January 1 of any odd-numbered year thereafter, the California Privacy Protection Agency shall adjust the monetary thresholds in specific sections to reflect any increase in the Consumer Price Index [2].",
+        "type": "Administrative",
+        "mentions": [
+            "1798.140",
+            "1798.199.90",
+            "1798.199.25",
+            "1798.150",
+            "1798.155"
+        ],
+        "exemptions_in": [],
+        "summary": "Establishes state funding for the operations of the California Privacy Protection Agency and mandates biennial inflation adjustments for CCPA monetary thresholds, such as business revenue requirements and penalty limits [1-3].",
+        "modifies": []
+    },
+    "1798.199.90": {
+        "title": "Civil Penalties and Attorney General Enforcement",
+        "content": "Any business, service provider, contractor, or other person that violates this title shall be subject to an injunction and liable for a civil penalty of not more than two thousand five hundred dollars ($2,500) for each violation or seven thousand five hundred dollars ($7,500) for each intentional violation and each violation involving the personal information of minor consumers, as adjusted pursuant subdivision (d) of Section 1798.199.95... No civil action may be filed by the Attorney General under this section for any violation of this title after the agency has issued a decision pursuant to Section 1798.199.85 or an order pursuant to Section 1798.199.55 against that person for the same violation.",
+        "type": "Enforcement/Penalty",
+        "mentions": [
+            "1798.150",
+            "1798.199.95",
+            "1798.199.55",
+            "1798.199.85"
+        ],
+        "exemptions_in": [
+            "1798.199.55",
+            "1798.185(d)",
+            "1798.199.85"
+        ],
+        "summary": "Establishes civil penalties for CCPA violations enforceable by the Attorney General, directs penalty proceeds to the Consumer Privacy Fund, prevents duplicative enforcement if the Privacy Protection Agency has already issued a decision, and preserves the consumer's private right of action for security breaches.",
+        "modifies": []
+    },
+    "1798.199.85": {
+        "title": "Judicial Review of Agency Decisions",
+        "content": "Any decision of the agency with respect to a complaint or administrative fine shall be subject to judicial review in an action brought by an interested party to the complaint or administrative fine and shall be subject to an abuse of discretion standard.",
+        "type": "Administrative",
+        "mentions": [],
+        "exemptions_in": [],
+        "summary": "Establishes that any decision made by the Privacy Protection Agency regarding a complaint or administrative fine can be challenged in court by an interested party, and that courts will review these decisions under an abuse of discretion standard.",
+        "modifies": []
+    },
+    "1798.199.80": {
+        "title": "Court Judgments for Collection of Administrative Fines",
+        "content": "(a) If the time for judicial review of a final agency order or decision has lapsed, or if all means of judicial review of the order or decision have been exhausted, the agency may apply to the clerk of the court for a judgment to collect the administrative fines imposed by the order or decision, or the order as modified in accordance with a decision on judicial review. (b) The application, which shall include a certified copy of the order or decision, or the order as modified in accordance with a decision on judicial review, and proof of service of the order or decision, constitutes a sufficient showing to warrant issuance of the judgment to collect the administrative fines. The clerk of the court shall enter the judgment immediately in conformity with the application. (c) An application made pursuant to this section shall be made to the clerk of the superior court in the county where the administrative fines were imposed by the agency. (d) A judgment entered in accordance with this section has the same force and effect as, and is subject to all the provisions of law relating to, a judgment in a civil action and may be enforced in the same manner as any other judgment of the court in which it is entered. (e) The agency may bring an application pursuant to this section only within four years after the date on which all means of judicial review of the order or decision have been exhausted. (f) The remedy available under this section is in addition to those available under any other law. [1-3]",
+        "type": "Enforcement/Penalty",
+        "mentions": [],
+        "exemptions_in": [
+            "1798.185(d)"
+        ],
+        "summary": "Outlines the procedure for the Privacy Protection Agency to convert final administrative fine orders into enforceable civil court judgments by applying to a superior court clerk, and establishes a four-year statute of limitations for the agency to file this application after all judicial reviews are exhausted. [1-3]",
+        "modifies": []
+    },
+    "1798.199.75": {
+        "title": "Civil Actions for Collection of Unpaid Administrative Fines",
+        "content": "(a) In addition to any other available remedies, the agency may bring a civil action and obtain a judgment in superior court for the purpose of collecting any unpaid administrative fines imposed pursuant to this title after exhaustion of judicial review of the agency\u2019s action. The action may be filed as a small claims, limited civil, or unlimited civil case depending on the jurisdictional amount. The venue for this action shall be in the county where the administrative fines were imposed by the agency. In order to obtain a judgment in a proceeding under this section, the agency shall show, following the procedures and rules of evidence as applied in ordinary civil actions, all of the following: (1) That the administrative fines were imposed following the procedures set forth in this title and implementing regulations. (2) That the defendant or defendants in the action were notified, by actual or constructive notice, of the imposition of the administrative fines. (3) That a demand for payment has been made by the agency and full payment has not been received. (b) A civil action brought pursuant to subdivision (a) shall be commenced within four years after the date on which the administrative fines were imposed.",
+        "type": "Enforcement/Penalty",
+        "mentions": [],
+        "exemptions_in": [
+            "1798.185(d)"
+        ],
+        "summary": "Authorizes the Privacy Protection Agency to file civil lawsuits in superior court to collect unpaid administrative fines after judicial review is exhausted, detailing the required proofs for a judgment and establishing a four-year statute of limitations.",
+        "modifies": []
+    },
+    "1798.199.70": {
+        "title": "Statute of Limitations and Tolling for Administrative Actions",
+        "content": "No administrative action brought pursuant to this title alleging a violation of any of the provisions of this title shall be commenced more than five years after the date on which the violation occurred. (a) The service of the probable cause hearing notice, as required by Section 1798.199.50, upon the person alleged to have violated this title shall constitute the commencement of the administrative action. (b) If the person alleged to have violated this title engages in the fraudulent concealment of the person\u2019s acts or identity, the five-year period shall be tolled for the period of the concealment. For purposes of this subdivision, \u201cfraudulent concealment\u201d means the person knows of material facts related to the person\u2019s duties under this title and knowingly conceals them in performing or omitting to perform those duties for the purpose of defrauding the public of information to which it is entitled under this title. (c) If, upon being ordered by a superior court to produce any documents sought by a subpoena in any administrative proceeding under this title, the person alleged to have violated this title fails to produce documents in response to the order by the date ordered to comply therewith, the five-year period shall be tolled for the period of the delay from the date of filing of the motion to compel until the date the documents are produced.",
+        "type": "Enforcement/Penalty",
+        "mentions": [
+            "1798.199.50"
+        ],
+        "exemptions_in": [
+            "1798.185(d)"
+        ],
+        "summary": "Establishes a five-year statute of limitations for commencing administrative actions for CCPA violations, and outlines specific scenarios where this time limit is paused (tolled), such as fraudulent concealment or a failure to produce subpoenaed documents [1, 2].",
+        "modifies": []
+    },
+    "1798.199.65": {
+        "title": "Agency Subpoena and Investigatory Powers",
+        "content": "The agency may subpoena witnesses, compel their attendance and testimony, administer oaths and affirmations, take evidence and require by subpoena the production of any books, papers, records, or other items material to the performance of the agency\u2019s duties or exercise of its powers, including, but not limited to, its power to audit a business\u2019 compliance with this title.",
+        "type": "Administrative/Investigatory",
+        "mentions": [],
+        "exemptions_in": [],
+        "summary": "Grants the Privacy Protection Agency the authority to subpoena witnesses, compel testimony, administer oaths, and demand the production of records necessary to perform its duties, including conducting compliance audits.",
+        "modifies": []
+    },
+    "1798.199.60": {
+        "title": "Rejection of Administrative Law Judge Decisions",
+        "content": "Whenever the agency rejects the decision of an administrative law judge made pursuant to Section 11517 of the Government Code, the agency shall state the reasons in writing for rejecting the decision.",
+        "type": "Administrative",
+        "mentions": [],
+        "exemptions_in": [],
+        "summary": "Requires the Privacy Protection Agency to provide a written explanation whenever it chooses to reject a decision made by an administrative law judge.",
+        "modifies": []
+    },
+    "1798.199.55": {
+        "title": "Probable Cause Hearings and Administrative Orders",
+        "content": "(a) When the agency determines there is probable cause for believing this title has been violated, it shall hold a hearing to determine if a violation has or violations have occurred. Notice shall be given and the hearing conducted in accordance with the Administrative Procedure Act... If the agency determines on the basis of the hearing conducted pursuant to this subdivision that a violation or violations have occurred, it shall issue an order that may require the violator to do all or any of the following: (1) Cease and desist violation of this title. (2) Subject to Section 1798.155, pay an administrative fine of up to two thousand five hundred dollars ($2,500) for each violation, or up to seven thousand five hundred dollars ($7,500) for each intentional violation and each violation involving the personal information of minor consumers to the Consumer Privacy Fund within the General Fund of the state. When the agency determines that no violation has occurred, it shall publish a declaration so stating. (b) If two or more persons are responsible for any violation or violations, they shall be jointly and severally liable.",
+        "type": "Enforcement/Penalty",
+        "mentions": [
+            "1798.155"
+        ],
+        "exemptions_in": [
+            "1798.185(d)"
+        ],
+        "summary": "Mandates that the Privacy Protection Agency hold a formal hearing upon finding probable cause of a CCPA violation, and authorizes the agency to issue cease and desist orders or levy administrative fines if a violation is confirmed.",
+        "modifies": []
+    },
+    "1798.199.50": {
+        "title": "Notice and Proceedings for Probable Cause Determinations",
+        "content": "No finding of probable cause to believe this title has been violated shall be made by the agency unless, at least 30 days prior to the agency\u2019s consideration of the alleged violation, the business, service provider, contractor, or person alleged to have violated this title is notified of the violation by service of process or registered mail with return receipt requested, provided with a summary of the evidence, and informed of their right to be present in person and represented by counsel at any proceeding of the agency held for the purpose of considering whether probable cause exists for believing the person violated this title. Notice to the alleged violator shall be deemed made on the date of service, the date the registered mail receipt is signed, or if the registered mail receipt is not signed, the date returned by the post office. A proceeding held for the purpose of considering probable cause shall be private unless the alleged violator files with the agency a written request that the proceeding be public.",
+        "type": "Administrative",
+        "mentions": [],
+        "exemptions_in": [],
+        "summary": "Requires the Privacy Protection Agency to provide at least 30 days' written notice, a summary of evidence, and the right to counsel before making a probable cause determination regarding a CCPA violation, and establishes that such proceedings are private by default.",
+        "modifies": []
+    },
+    "1798.199.45": {
+        "title": "Agency Investigations and Complaint Handling",
+        "content": "(a) Upon the sworn complaint of any person or on its own initiative, the agency may investigate possible violations of this title relating to any business, service provider, contractor, or person. The agency may decide not to investigate a complaint or decide to provide a business with a time period to cure the alleged violation. In making a decision not to investigate or provide more time to cure, the agency may consider the following: (1) Lack of intent to violate this title. (2) Voluntary efforts undertaken by the business, service provider, contractor, or person to cure the alleged violation prior to being notified by the agency of the complaint. (b) (1) The agency shall notify in writing the person who made the complaint of the action, if any, the agency has taken or plans to take on the complaint, together with the reasons for that action or nonaction. (2) The written notification required by this subdivision shall not include information that is subject to law enforcement exemptions and privileges, including, but not limited to, confidential information related to an investigation and information that is privileged under the Evidence Code and the Government Code.",
+        "type": "Administrative/Investigatory",
+        "mentions": [],
+        "exemptions_in": [],
+        "summary": "Authorizes the Privacy Protection Agency to investigate alleged CCPA violations, allows the agency discretion to provide a cure period or decline investigation based on a violator's intent and voluntary efforts, and mandates written updates to complainants while protecting privileged investigative information.",
+        "modifies": []
+    },
+    "1798.199.40": {
+        "title": "Agency Functions and Responsibilities",
+        "content": "The agency shall perform the following functions: (a) Administer, implement, and enforce through administrative actions this title. (b)... adopt, amend, and rescind regulations pursuant to Section 1798.185... (c) Through the implementation of this title, protect the fundamental privacy rights of natural persons... (d) Promote public awareness... and provide a public report summarizing the risk assessments filed with the agency pursuant to... Section 1798.185... (f) Provide guidance to businesses... and appoint a Chief Privacy Auditor to conduct audits... pursuant to... Section 1798.185... (j) Establish a mechanism pursuant to which persons doing business in California that do not meet the definition of business set forth in... Section 1798.140 may voluntarily certify that they are in compliance... (k) Solicit, review, and approve applications for grants to the extent funds are available pursuant to... Section 1798.160. (l) Perform all other acts necessary or appropriate in the exercise of its power, authority, and jurisdiction...",
+        "type": "Administrative",
+        "mentions": [
+            "1798.160",
+            "1798.185",
+            "1798.140"
+        ],
+        "exemptions_in": [],
+        "summary": "Outlines the comprehensive functions and responsibilities of the Privacy Protection Agency, including enforcing the CCPA, adopting regulations, promoting public awareness, conducting audits, establishing voluntary compliance certifications for non-covered entities, and managing privacy grants.",
+        "modifies": []
+    },
+    "1798.199.35": {
+        "title": "Delegation of Authority by the Agency Board",
+        "content": "The agency board may delegate authority to the chairperson or the executive director to act in the name of the agency between meetings of the agency, except with respect to resolution of enforcement actions and rulemaking authority.",
+        "type": "Administrative",
+        "mentions": [],
+        "exemptions_in": [],
+        "summary": "Allows the Privacy Protection Agency board to delegate operational authority to the chairperson or executive director between formal meetings, but explicitly excludes the power to resolve enforcement actions or exercise rulemaking authority.",
+        "modifies": []
+    },
+    "1798.199.30": {
+        "title": "Appointment of Executive Director and Staffing",
+        "content": "The agency board shall appoint an executive director who shall act in accordance with agency policies and regulations and with applicable law. The agency shall appoint and discharge officers, counsel, and employees, consistent with applicable civil service laws, and shall fix the compensation of employees and prescribe their duties. The agency may contract for services that cannot be provided by its employees.",
+        "type": "Administrative",
+        "mentions": [],
+        "exemptions_in": [],
+        "summary": "Authorizes the Privacy Protection Agency board to appoint an executive director, hire, compensate, and manage staff according to civil service laws, and contract for outside services when necessary.",
+        "modifies": []
+    },
+    "1798.199.25": {
+        "title": "Compensation and Expenses for Agency Board Members",
+        "content": "For each day on which they engage in official duties, members of the agency board shall be compensated at the rate of one hundred dollars ($100)* , adjusted pursuant to subdivision (d) of Section 1798.199.95, and shall be reimbursed for expenses incurred in performance of their official duties.",
+        "type": "Administrative",
+        "mentions": [
+            "1798.199.95"
+        ],
+        "exemptions_in": [],
+        "summary": "Establishes that Privacy Protection Agency board members are compensated at a rate of $100 per day for official duties, subject to inflation adjustments outlined in Section 1798.199.95, and guarantees reimbursement for incurred official expenses.",
+        "modifies": []
+    },
+    "1798.199.20": {
+        "title": "Term Limits for Agency Board Members",
+        "content": "Members of the agency board, including the chairperson, shall serve at the pleasure of their appointing authority but shall serve for no longer than eight consecutive years. [1]",
+        "type": "Administrative",
+        "mentions": [],
+        "exemptions_in": [],
+        "summary": "Establishes that members of the Privacy Protection Agency board, including the chairperson, serve at the discretion of their appointing authority, with a strict maximum term limit of eight consecutive years. [1]",
+        "modifies": []
+    },
+    "1798.199.15": {
+        "title": "Qualifications, Duties, and Restrictions of Agency Board Members",
+        "content": "Members of the agency board shall: (a) Have qualifications, experience, and skills, in particular in the areas of privacy and technology, required to perform the duties of the agency and exercise its powers. (b) Maintain the confidentiality of information which has come to their knowledge in the course of the performance of their tasks or exercise of their powers, except to the extent that disclosure is required by the Public Records Act. (c) Remain free from external influence, whether direct or indirect, and shall neither seek nor take instructions from another. (d) Refrain from any action incompatible with their duties and engaging in any incompatible occupation, whether gainful or not, during their term. (e) Have the right of access to all information made available by the agency to the chairperson. (f) Be precluded, for a period of one year after leaving office, from accepting employment with a business that was subject to an enforcement action or civil action under this title during the member\u2019s tenure or during the five-year period preceding the member\u2019s appointment. (g) Be precluded for a period of two years after leaving office from acting, for compensation, as an agent or attorney for, or otherwise representing, any other person in a matter pending before the agency if the purpose is to influence an action of the agency.",
+        "type": "Administrative",
+        "mentions": [],
+        "exemptions_in": [],
+        "summary": "Outlines the necessary qualifications, confidentiality requirements, strict independence, and post-employment restrictions (revolving-door prohibitions) for members of the Privacy Protection Agency board.",
+        "modifies": []
+    },
+    "1798.199.10": {
+        "title": "Establishment and Composition of the California Privacy Protection Agency",
+        "content": "(a) There is hereby established in state government the California Privacy Protection Agency, which is vested with full administrative power, authority, and jurisdiction to implement and enforce the California Consumer Privacy Act of 2018. The agency shall be governed by a five-member board, including the chairperson. The chairperson and one member of the board shall be appointed by the Governor. The Attorney General, Senate Rules Committee, and Speaker of the Assembly shall each appoint one member. These appointments should be made from among Californians with expertise in the areas of privacy, technology, and consumer rights. (b) The initial appointments to the agency shall be made within 90 days of the effective date of the act adding this section.",
+        "type": "Administrative",
+        "mentions": [],
+        "exemptions_in": [],
+        "summary": "Establishes the California Privacy Protection Agency with full administrative power to enforce the CCPA, details the appointment structure of its five-member governing board, and mandates that initial appointments be made within 90 days.",
+        "modifies": []
+    },
+    "1798.199": {
+        "title": "Operative Date of Preemption Provisions",
+        "content": "Notwithstanding Section 1798.198, Section 1798.180 shall be operative on the effective date of the act adding this section.",
+        "type": "Administrative",
+        "mentions": [
+            "1798.198",
+            "1798.180"
+        ],
+        "exemptions_in": [],
+        "summary": "Establishes that Section 1798.180 (regarding preemption of local laws) becomes operative immediately upon the effective date of the act adding this section, overriding the general operative date outlined in Section 1798.198.",
+        "modifies": []
+    },
+    "1798.198": {
+        "title": "Operative Date and Initiative Withdrawal Condition",
+        "content": "(a) Subject to limitation provided in subdivision (b), and in Section 1798.199, this title shall be operative January 1, 2020. (b) This title shall become operative only if initiative measure No. 17-0039, The Consumer Right to Privacy Act of 2018, is withdrawn from the ballot pursuant to Section 9604 of the Elections Code.",
+        "type": "Administrative",
+        "mentions": [
+            "1798.199"
+        ],
+        "exemptions_in": [
+            "1798.199"
+        ],
+        "summary": "Establishes that the CCPA becomes operative on January 1, 2020, provided that the specified 2018 privacy ballot initiative is officially withdrawn, and notes that this timeline is subject to the specific limitations detailed in Section 1798.199.",
+        "modifies": []
+    },
+    "1798.196": {
+        "title": "Supplementation and Preemption by Federal and State Law",
+        "content": "This title is intended to supplement federal and state law, if permissible, but shall not apply if such application is preempted by, or in conflict with, federal law or the United States or California Constitution.",
+        "type": "Administrative",
+        "mentions": [],
+        "exemptions_in": [],
+        "summary": "Establishes that the CCPA is intended to supplement existing state and federal laws, but clarifies that its provisions will not apply if they are preempted by or conflict with federal law, the United States Constitution, or the California Constitution.",
+        "modifies": []
+    },
+    "1798.194": {
+        "title": "Liberal Construction of the Title",
+        "content": "This title shall be liberally construed to effectuate its purposes. [1]",
+        "type": "Administrative",
+        "mentions": [],
+        "exemptions_in": [],
+        "summary": "Mandates that the provisions of the CCPA must be broadly and liberally interpreted to achieve the law's intended goals and purposes. [1]",
+        "modifies": []
+    },
+    "1798.192": {
+        "title": "Waiver",
+        "content": "Any provision of a contract or agreement of any kind, including a representative action waiver, that purports to waive or limit in any way rights under this title, including, but not limited to, any right to a remedy or means of enforcement, shall be deemed contrary to public policy and shall be void and unenforceable [1]. This section shall not prevent a consumer from declining to request information from a business, declining to opt out of a business\u2019s sale of the consumer\u2019s personal information, or authorizing a business to sell or share the consumer\u2019s personal information after previously opting out [1].",
+        "type": "Administrative",
+        "mentions": [],
+        "exemptions_in": [],
+        "summary": "Declares that any contract provisions or agreements attempting to waive or limit consumer rights under the CCPA are void and unenforceable [1]. However, it clarifies that consumers still maintain the voluntary ability to decline to exercise these rights, such as choosing not to opt out of data sales or deciding not to request information [1].",
+        "modifies": []
+    },
+    "1798.190": {
+        "title": "Anti-Avoidance",
+        "content": "A court or the agency shall disregard the intermediate steps or transactions for purposes of effectuating the purposes of this title: (a) If a series of steps or transactions were component parts of a single transaction intended from the beginning to be taken with the intention of avoiding the reach of this title, including the disclosure of information by a business to a third party in order to avoid the definition of sell or share. (b) If steps or transactions were taken to purposely avoid the definition of sell or share by eliminating any monetary or other valuable consideration, including by entering into contracts that do not include an exchange for monetary or other valuable consideration, but where a party is obtaining something of value or use.",
+        "type": "Administrative",
+        "mentions": [],
+        "exemptions_in": [],
+        "summary": "Instructs courts and the Privacy Protection Agency to disregard intermediate steps or transactions that are intentionally designed to circumvent the CCPA, such as restructuring agreements to avoid the legal definitions of \"selling\" or \"sharing\" data by eliminating monetary exchange while still trading things of value.",
+        "modifies": []
+    }
+}
