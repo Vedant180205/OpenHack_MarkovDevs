@@ -8,7 +8,6 @@ dependencies = [
     "faiss-cpu>=1.13.2",
     "fastapi>=0.134.0",
     "huggingface-hub>=1.5.0",
-    "llama-cpp-python>=0.3.16",
     "pydantic>=2.12.5",
     "pypdf>=6.7.4",
     "requests>=2.32.5",

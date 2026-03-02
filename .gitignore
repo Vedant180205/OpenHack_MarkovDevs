@@ -58,3 +58,4 @@ data/ccpa_parsed_rag.json
 # If you want to ignore downloaded model files or caches locally:
 .cache/
 
+uv.lock

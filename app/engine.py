@@ -29,11 +29,11 @@ class ComplianceEngine:
         self.embedder = SentenceTransformer(EMBED_MODEL_ID)
         
         model_path = hf_hub_download(
-            repo_id="Qwen/Qwen2.5-3B-Instruct-GGUF", 
-            filename="qwen2.5-3b-instruct-q4_k_m.gguf"
+            repo_id="bartowski/Meta-Llama-3.1-8B-Instruct-GGUF", 
+            filename="Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf"
         )
         
-        self.llm = Llama(model_path=model_path, n_ctx=6144, n_threads=8, verbose=False)
+        self.llm = Llama(model_path=model_path, n_ctx=6144, n_threads=8, n_gpu_layers=-1, verbose=False)
         self.is_ready = True
         print("✅ Engine Fully Loaded on CPU!")
 

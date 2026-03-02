@@ -7,13 +7,15 @@ def download_models():
     print("Downloading embedding model: mixedbread-ai/mxbai-embed-large-v1...")
     SentenceTransformer("mixedbread-ai/mxbai-embed-large-v1")
 
-    # 2. Download the GGUF LLM
-    print("Downloading Qwen 2.5 3B GGUF for CPU execution...")
-    repo_id = "Qwen/Qwen2.5-3B-Instruct-GGUF"
-    filename = "qwen2.5-3b-instruct-q4_k_m.gguf"
+    # 2. Download the GGUF LLM (Llama 3.1 8B)
+    print("Downloading Llama 3.1 8B GGUF...")
+    repo_id = "bartowski/Meta-Llama-3.1-8B-Instruct-GGUF"
+    filename = "Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf"
     
-    # This downloads the single optimized file directly to the Hugging Face cache
-    hf_hub_download(repo_id=repo_id, filename=filename)
+    # Grab the token from the environment variable Docker provides
+    hf_token = os.getenv("HF_TOKEN")
+    
+    hf_hub_download(repo_id=repo_id, filename=filename, token=hf_token)
     
     print("✅ All models successfully downloaded and cached!")
 
